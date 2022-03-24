@@ -1,5 +1,5 @@
 # Popup
-A simple JavaScript project...
+A simple JavaScript project.
 
 You can check here: https://popup-khusamayasir.netlify.app/
 
