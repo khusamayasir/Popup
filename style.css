@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: lightgreen;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,7 +15,7 @@ body {
 }
 
 button {
-    background-color: lightgreen;
+    background-color: green;
     color: white;
     padding: 1rem;
     border-radius: 4px;
@@ -50,7 +51,7 @@ button {
 
 .popup button {
     background-color: #fff;
-    color: lightgreen;
+    color: green;
     font-size: 2rem;
     position: absolute;
     top: 10px;
